@@ -1,0 +1,52 @@
+<html>
+<body>
+<div style="width:750px" id="page-container" >
+This is year 4 of the Cambridge macro reading group. We meet mondays 13-14 Keynes room. The page with all the details and history of past meeting is <a href="http://people.pwf.cam.ac.uk/fr282/MacroStudyGroup/">here</a>.
+
+<ul>
+	<li>Future meetings</li>
+	<ul>		
+		<li>
+			TBA
+		<br /> presenter: Alex Ross
+		</li>		
+		<li>
+			TBA
+		<br /> presenter: Axel
+		</li>	
+		<li>
+			TBA
+		<br /> presenter: Tom
+		</li>		
+	</ul>
+	<li> Full calendar<br>
+<iframe src="https://www.google.com/calendar/embed?mode=AGENDA&amp;height=220&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5ro8vt59f246jpv0fshbstsovk%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="600" height="300" frameborder="0" scrolling="no"></iframe>
+	</li>
+
+
+</div>
+</body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7275213-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+parent.AdjustIframeHeight(document.getElementById("page-container").scrollHeight);
+</script>
+
+
+</html>
+
+
+

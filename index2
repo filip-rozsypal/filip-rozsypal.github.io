@@ -1,0 +1,100 @@
+<html>
+
+<head>
+	<title>Filip Rozsypal's webpage</title>
+
+	<meta name="description" content="Filip Rozsypal, PhD in Economics, Cambridge University">
+	<meta name="keywords" content="Filip Rozsypal, economics, research, cambridge, cambridge university">
+	<meta name="author" content="Filip Rozsypal">
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-7275213-3']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript'; ga.async = true;
+			ga.src =
+				('https:' == document.location.protocol ? 'https://ssl' 
+				: 'http://www') + 
+				'.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
+		  })();
+	</script>
+</head>
+
+<body>
+
+
+
+<table width="800">
+	<tr>
+		<td>
+			<img src="fil3.jpg" width="221" height="298" alt="photo" />
+		</td>	
+		<td>
+			<h1>Filip Rozsypal</h1>
+			PhD candidate, <br/>
+			Faculty of Economics, University of Cambridge
+
+			<h3>Contact Details</h3>
+			fr282(at)cam.ac.uk<br />
+			phone: +44(0) 755 3904 282<br /><br />			
+			Sidgwick Ave,<br />
+			Cambridge,<br />
+			CB3 9DD<br /><br />
+
+
+			<!--	<a href="fr_cv.pdf" onClick="javascript: _gaq.push(['_trackPageview', 'cv download']); ">cv</a>	<br /> -->
+
+		JOB MARKET PAPER: Schumpeterian business cycles (<a href="rozsypal_jmp.pdf" target="_blank">link</a>)<br />		
+			
+	</td>
+
+	</tr>
+</table>
+<br />
+<div style="width:800px">
+
+
+
+ <table style="width:100%" >
+  <tr>
+    <td><a href="intro_frame.html" target="iframe_a">Intro</a></td>	  
+    <td><a href="res_frame.html" target="iframe_a">Research</a></td>
+    <td><a href="fr_cv.pdf" onClick="javascript: _gaq.push(['_trackPageview', 'cv download']);" target="_blank">CV</a></td>
+    <td><a href="teaching_frame.html" target="iframe_a">Teaching</a></td>
+    <td><a href="mrg_frame.html" target="iframe_a">Macro Group</a></td>   
+  </tr>
+</table>     
+
+
+<iframe
+	style="margin:0; width:100%; height:100px; border:none; overflow:hidden;"
+	src="intro_frame.html"
+	name="iframe_a"
+	id="form-iframe"
+	scrolling="no"
+	onload="AdjustIframeHeightOnLoad()">
+</iframe>
+
+<script type="text/javascript">
+function AdjustIframeHeightOnLoad() { document.getElementById("form-iframe").style.height = document.getElementById("form-iframe").contentWindow.document.body.scrollHeight + "px"; }
+function AdjustIframeHeight(i) { document.getElementById("form-iframe").style.height = parseInt(i) + "px"; }
+</script>
+
+
+
+  </div>
+
+<HR NOSHADE="NOSHADE"> 
+updated 21/4/2015
+
+
+
+
+
+</body>
+</html>

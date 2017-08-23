@@ -1,0 +1,117 @@
+<html>
+
+<head>
+	<title>Filip Rozsypal's webpage</title>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-7275213-3']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript'; ga.async = true;
+			ga.src =
+				('https:' == document.location.protocol ? 'https://ssl' 
+				: 'http://www') + 
+				'.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
+		  })();
+	</script>
+</head>
+
+<body>
+<h1>Filip Rozsypal</h1>
+
+
+<table width="400">
+	<tr>
+		<td>
+			<img src="fil.jpg" width="200" height="300" alt="photo" />
+		</td>	
+		<td>
+			PhD candidate, <br/>Faculty of Economics
+
+			<h3>contact address:</h3>
+			fr282(at)cam.ac.uk<br />
+			Forster court c20<br />
+			Charles Babbage road<br />
+			Cambridge<br />
+			CB3 0FT<br />
+			
+	</td>
+
+	</tr>
+</table>
+
+<div style="width:800px">
+
+I am on the Job Market and I will be available AEA conference in Boston and RES meeting in London. <br/>
+I am a macroeconomist, with a general interest in macroeconomic dynamics. In particular, I am interested in business cycle fluctuations from the perspective of how disaggregated factors can lead to the emergence of aggregate phenomena.
+<ul>
+	<li>
+		<a href="fr_cv.pdf" onClick="javascript: _gaq.push(['_trackPageview', 'cv download']); ">cv</a>	
+	</li>
+	<li>
+		JOB MARKET PAPER: Schumpeterian business cycles (coming soon)
+	</li>			
+	<li>
+		campanion paper with more details on the numerical precedure in my jmp: Solving high-dimensional models with truncated shocks (<a href="numerical_methodology.pdf" onClick="javascript: _gaq.push(['_trackPageview', 'paper numerical methodologyn']);">link</a>)
+	</li>
+</ul>
+
+
+
+
+<h2>Research</h2>
+interests: business cycles, role of information and learning, heterogenous agents
+<ul>
+	<li>
+		<strong>Work in progress</strong>
+		<ul>
+			<li>
+				Permanent of transitory? The role of changes in income expectations during recessions (with Kathrin Schlafmann)
+			</li>
+			<li>
+				Using symbolic math toolbox to speed up projection based algorithms
+			</li>			
+			<li>
+				The Optimal Monetary Policy Rule: the Role of Asymmetries and Reputation (<a href="ReputationAndAsymmetry2013.pdf" onClick="javascript: _gaq.push(['_trackPageview', 'paper Asymmetry and Reputation']);">link</a>)
+			</li>
+		</ul>
+	</li>
+	<li>
+		<strong>Old paper from my times at the Czech National Bank</strong>
+		<ul>
+			<li>
+			<a href="http://www.sciencedirect.com/science/article/pii/S0939362511000446" onClick="javascript: _gaq.push(['_trackPageview', 'money and forecasting']);">
+Does Money Help Predict Inflation? An Empirical Assessment for Central Europe</a>, (with Roman Horvath and Lubos Komarek),  Economic Systems, Volume 35, Issue 4, December 2011
+			</li>
+		</ul>
+	</li>
+</ul>
+
+<h2>Macro Study Group (<a href="http://people.pwf.cam.ac.uk/fr282/MacroStudyGroup/">link</a>) </h2>
+MT 2014 - apply for spots please! <br/>
+MT 2013 and LT 2014 mix of topics  <br/> 
+LT 2011 - Rational inattention <br />
+MT 2011 - Financial frictions <br />
+
+
+
+
+<h2>Teaching</h2>
+summer 2014: Macroeconomics Summer Course (LSE) <a href="http://www.wouterdenhaan.com/summercourse.html">(link)</a> <br/>
+2011/2012: Macro for Diploma students (Part II A, Paper 2) <a href="http://people.ds.cam.ac.uk/fr282/teaching_diploma.html">(link)</a><br/>
+
+  </div>
+
+
+<iframe width="100%" height="300px" src="demo_iframe.htm" name="iframe_a"></iframe>
+
+<iframe width="100%" height="300px" src="http://people.ds.cam.ac.uk/fr282/MacroStudyGroup/index.html" name="iframe_a"></iframe>
+
+<HR NOSHADE="NOSHADE"> 
+updated 12/10/2014
+
+</body>
+</html>

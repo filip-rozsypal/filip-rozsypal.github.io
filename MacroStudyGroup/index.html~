@@ -1,0 +1,386 @@
+<html>
+<head>
+	<title>PhD Macro Study Group</title>
+
+
+
+	<link rel="stylesheet" type="text/css" href="web.css" />
+
+</head>
+<body>
+	<h1>Macro Study Group</h1>
+<h2>MT 2014</h2>
+
+Please submit suggestion for papers/book/topics for discussion. 
+<ul>
+	<li>Future meetings</li>
+	<ul>		
+		</li>
+		<li>
+			TBA
+		<br /> presenter: Maren
+		</li>	
+		<li>
+			TBA
+		<br /> presenter: Alex Ross
+		</li>		
+		<li>
+			TBA
+		<br /> presenter: Axel
+		</li>	
+		<li>
+			TBA
+		<br /> presenter: Tom
+		</li>		
+	</ul>
+	<li> Full calendar<br>
+<iframe src="https://www.google.com/calendar/embed?mode=AGENDA&amp;height=220&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5ro8vt59f246jpv0fshbstsovk%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="600" height="300" frameborder="0" scrolling="no"></iframe>
+	</li>
+
+
+	<li>
+Past meetings:
+		<ul>
+		<li>
+			Hagedorn, Karahan, Manovskii and Mitman, "Unemployment Benefits and Unemployment in the Great Recession: The Role of Macro Effects"
+		<br /> presenter: Fred			
+		<li>
+		 30/4: INET guest:  Saverio Simonelli
+		</li>			
+		<li>
+		 25/3:	 Bocola: <a href=
+http://economics.sas.upenn.edu/graduate-program/candidates/luigi-bocolaf>The Pass-Through of Sovereign Risk</a>
+		<br /> presenter: Anil
+		</li>
+		<li>
+			 Lamadon: <a href=http://lamadon.com/lamadonjmp.pdf>Productivity Shocks, Dynamic Contracts and Income Uncertainty</a>
+		<br /> presenter: Alice
+		</li>			
+		<li>
+			12/3:  <a href=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2375621>Fiscal and Monetary Policy Coordination, Macroeconomic Stability, and Sovereign Risk</a>
+		<br /> presenter: Jasper
+		</li>		<li>
+			5/3, Araújo, Schommer and Woodford:<a href=http://www.nber.org/papers/w19711>Conventional and Unconventional Monetary Policy with Endogenous Collateral Constraints</a>
+		<br /> presenter: Simon
+		</li>			
+		<li>
+			26/2, Lamadon: <a href=http://lamadon.com/lamadonjmp.pdf>Productivity Shocks, Dynamic Contracts and
+Income Uncertainty</a>
+		<br /> presenter: Alice (cancelled, new date TBA)
+		</li>						
+	<li>
+		12/2, Berger and Vavra: <a href=https://sites.google.com/site/jvavra/docs/draft_10_29_13.pdf>Volatility and Pass-through</a>
+		<br /> presenter: Lu
+	</li>			
+	<li>
+		13/11, Boissay, Collard and Smets: <a href=http://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1514.pdf>Booms and systemic banking crises</a>
+		<br /> presenter: Jasmine
+	</li>			
+	<li>
+		13/11, Daly, Hryshko and Manovskii <a href=http://www.artsrn.ualberta.ca/econweb/hryshko/Papers/DalyHryshkoManovskii_Reconcile_4_23_2013.pdf>Reconciling Estimates of Earnings Processes
+in Growth Rates and Levels</a>
+		<br /> presenter: Dmytro
+	</li>			
+	<li>
+		30/10, Berger and Vavra: <a href=bergerVavra.pdf>Consumption Dynamics During Recessions</a> 	
+		<br /> presenter: Filip (<a href=bergerVavraConsumptionDynamicsRecession.pdf>slides</a>)
+	</li>
+	<li>
+		16/10,	Kaplan and Violante <a href=http://goo.gl/mb6MBs>
+		A Model of the Consumption Response to Fiscal Stimulus Payments</a>
+		<br /> presenter: Kathrin
+	</li>
+	<li>
+		2/10: Mertens and Ravn:
+		<a href=http://www.aeaweb.org/articles.php?doi=10.1257/aer.103.4.1212>
+		The Dynamic Effects of Personal and Corporate Income Tax Changes in the United States</a>,
+		<br /> presenter: Saleem (<a href=Saleem.pdf>slides</a>),
+		extra material: <a href=http://vimeo.com/29615704> Professor Stock on VARs and IVs</a> (2008 NBER)
+	</li>
+
+		</ul>
+</li>	
+	
+	
+	<li>
+
+
+
+
+
+Suggestion queue:<br>
+<table>
+    <tr>
+        <td>Suggested by</td>
+        <td>Name</td>
+        <td>Authors</td>
+        <td>Publication status</td>
+    </tr>
+    <tr>
+        <td>Chryssi</td>
+        <td><a href=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2315326>Monetary Policy Drivers of Bond and Equity Risks</a></td>
+        <td>  Campbell, Pflueger and Viceira</td>
+        <td>NBER WP 2013</td>
+    </tr>
+    <tr>
+        <td>Coen</td>
+        <td><a href=http://www.nber.org/papers/w19414>The Time for Austerity: Estimating the Average Treatment Effect of Fiscal Policy</a></td>
+        <td>Jorda and Taylor</td>
+        <td>NBER WP 2013</td>
+    </tr>
+    <tr>
+        <td>Saleem</td>
+        <td><a href=BasuFernaldKimbal.pdf>Are Technology Improvements Contractionary?</a></td>
+        <td> Kimball, Fernald, Basu</td>
+        <td>AER 2006</td>
+    </tr>
+    <tr>
+        <td>Giancarlo</td>
+        <td><a href=http://faculty.wcas.northwestern.edu/~yona/research/Time%20preference%20paperDec4.pdf>Valuation Risk and Asset Pricing</a></td>
+        <td>Albuquerque, Eichenbaum and Rebelo</td>
+        <td>WP 2012</td>
+    </tr>
+    <tr>
+        <td>Filip</td>
+        <td><a href=http://www.wouterdenhaan.com/papers/inventories.pdf>Inventories and the Role of Goods-Market Frictions for Business Cycles</a></td>
+        <td>Wouter den Haan</td>
+        <td>WP 2013</td>
+    </tr>
+    <tr>
+        <td>Fred</td>
+        <td><a href=http://scholar.harvard.edu/files/chodorow-reich/files/the_employment_effects_of_credit_market_disruptions.pdf>The Employment Effects of Credit Market Disruptions: Firm-level Evidence</a></td>
+        <td>Gabriel Chodorow-Reich</td>
+        <td>WP2013</td>
+    </tr>
+    <tr>
+        <td>Fred</td>
+        <td><a href=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1961211>Household Balance Sheets, Consumption, and the Economic Slump</a></td>
+        <td>Mian, Rao and Sufi</td>
+        <td>WP2013</td>
+    </tr>
+    <tr>
+        <td>Alex</td>
+        <td><a href=http://goo.gl/xiGBT6>Sentiments</a></td>
+        <td>Angeletos and La'O</td>
+        <td>ECMA 2013</td>
+    </tr>
+    <tr>
+        <td>Filip</td>
+        <td><a href=http://goo.gl/MywQNJ>Unemployment and Business Cycles</a></td>
+        <td>Christiano, Eichenbaum and Trabandt</td>
+        <td>WP 2013</td>
+    </tr>
+    <tr>
+        <td>Saleem</td>
+        <td><a href=http://onlinelibrary.wiley.com/doi/10.3982/ECTA8337/abstract> Fiscal Foresight and Information Flows</a></td>
+        <td>Leeper, Walker and Yang</td>
+        <td>ECMA 2013</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+   </table>
+	</li>
+
+
+<li>
+			
+Student participants:
+<table>
+    <tr>
+        <td>Alex</td>
+        <td>kohlhas(at)gmail.com</td>
+        <td>Anil</td>
+        <td>anlari(at)gmail.com</td>
+    </tr>
+    <tr>
+        <td>Povilas</td>
+        <td>pl312(at)cam.ac.uk</td>
+        <td>Jasmine</td>
+        <td>xiao.yujasmine(at)gmail.com</td>
+    </tr>
+    <tr>
+        <td>Jonathan</td>
+        <td>jejs3(at)cam.ac.uk</td>
+        <td>Lu</td>
+        <td>lh420(at)cam.ac.uk</td>
+    </tr>
+    <tr>
+        <td>Alice</td>
+        <td>aek31@cam.ac.uk</td>
+        <td>Jan</td>
+        <td>jk499(at)cam.ac.uk</td>
+    </tr>
+    <tr>
+        <td>Frederico</td>
+        <td>fredqpl(at)gmail.com</td>
+        <td>Riccardo</td>
+        <td>riccardo.trezzi(at)gmail.com</td>
+    </tr>
+    <tr>
+        <td>Filip</td>
+        <td>fr282(at)cam.ac.uk</td>
+        <td>Saleem</td>
+        <td>sab202(at)cam.ac.uk</td>
+    </tr>
+    <tr>
+        <td>Girish</td>
+        <td>gnb25(at)cam.ac.uk</td>
+        <td>Kathrin</td>
+        <td>Kathrin.Schlafmann(at)lrz.uni-muenchen.de</td>
+    </tr>
+    <tr>
+        <td>Alex Ross</td>
+        <td>agr34(at)cam.ac.uk</td>
+        <td>Axel</td>
+        <td>axel.gottfries(at)gmail.com</td>
+    </tr>
+    <tr>
+        <td>Rafe Martyn</td>
+        <td>erm47(at)cam.ac.uk</td>
+    </tr>
+</table>
+
+</li>
+<li>
+Faculty: Corsetti, Teulings, Faraglia, Giannitsarou, Rendahl, Hryshko
+</li>
+</ul>	
+	
+	
+	
+
+
+
+	
+
+<!-- Old Contents -->
+
+<hr />
+<h3>Past terms:</h3>
+<h4>Basic arrangements:</h4>
+	<ul>
+		<li> meetings: Tuesdays, 15-16, place: LB room 10  </li>
+		<li> everybody should be able to present or to criticise the discussed paper in 5 minutes  </li>
+	</ul>
+<ul>
+
+	<li>
+	<h4>Lent term 2012: Rational Inattention</h4>
+
+
+
+
+		<ul>
+			<li>Mankiw and Reis: <a href=http://ideas.repec.org/a/tpr/qjecon/v117y2002i4p1295-1328.html>Sticky Information Versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve</a>. QJE 2003 <br />
+			presented by Filip</li>
+
+
+	
+			<li>17/1:	Sims: <a href=http://ideas.repec.org/a/eee/moneco/v50y2003i3p665-690.html>Implications of Rational Inattention</a>. JME 2003, (<a href=Irrational_inattention_pres.pdf>Saleem's slides</a>)
+			</li>
+			<li>31/1: Mackowiak and Wiederholt: <a href=http://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1331.pdf>Business Cycle Dynamics under Rational Inattention</a>, ECB WP 2011
+			</li>
+			<li>7/2:	Yulei Luo : <a href=http://www.sciencedirect.com/science/article/pii/S1094202507000464>Consumption dynamics under information processing constraints</a>, Review of Economic Dynamics 2008 <br /> moderator: Sylvia
+			</li>
+			<li> 28/2: Van Nieuwerburgh and Veldkamp: <a href=http://www.blackwell-synergy.com/doi/abs/10.1111/j.1467-937X.2009.00583.x>Information Acquisition and Under-Diversification</a>, Review of Economic Studies 2010 <br /> moderator: Alex
+			</li>
+
+		</ul>
+
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//docs.google.com/spreadsheet/tq?key=0AjHGpakDR6JtdFJxeFJtWWpjeXZ5MDlqUFJ4dWk0Rmc&transpose=1&headers=0&range=E33%3AI34&gid=0&pub=1","options":{"vAxes":[{"viewWindowMode":"pretty","viewWindow":{}},{"viewWindowMode":"pretty","viewWindow":{}}],"title":"","height":381,"backgroundColor":"#FFFFFF","colors":["#3366CC","#DC3912","#FF9900","#109618","#990099","#0099C6","#DD4477","#66AA00","#B82E2E","#316395","#994499","#22AA99","#AAAA11","#6633CC","#E67300","#8B0707","#651067","#329262","#5574A6","#3B3EAC","#B77322","#16D620","#B91383","#F4359E","#9C5935","#A9C413","#2A778D","#668D1C","#BEA413","#0C5922","#743411"],"legend":"right","width":633,"is3D":false,"logScale":false,"hasLabelsColumn":true,"hAxis":{"maxAlternations":1}},"state":{},"view":"{\"columns\":[0,1]}","chartType":"PieChart"} </script>
+
+	</li>
+
+
+	<li>
+	<h4>Michaelmas term 2011: Financial Friction</h4>
+	<ol> 
+		<li> 25th October:
+			<ul>
+				<li>
+				Chapter in Handbook of Monetary economics
+				by Bernanke, Gertler and Gilchrist,
+				<a href="http://www.econ.nyu.edu/user/gertlerm/BGGHandbook.pdf">
+				The Financial Accelerator in a Quantitative Business
+				Cycle Framework</a>, 1997
+				</li>
+				<li>
+				Kiyotaki and Moore,
+				<a  href="http://www.jstor.org/stable/10.1086/262072">Credit Cycles</a>,
+				Journal of Political Economy, 1998
+				</li>
+			</ul>
+			Presented by Matthias 
+		</li>
+		<li> 8th November:
+			<ul>
+				<li>Holmstrom and Tirole, 
+				<a href="http://www.jstor.org/stable/2951252">Financial Intermediation, Loanable Funds and the Real Sector</a>,	Quarterly Journal of Economics, 1997
+				</li>
+			</ul>
+			Presented by Tom
+		</li>
+		<li> third session (15th November):
+			<ul>
+				<li>Cooper and Corbae: <a href="http://www.sciencedirect.com/science/article/pii/S0022053101929515"> Financial Collapse: A Lesson from the Great Depression</a>, Journal of Economic Theory, 2002</li>
+				</ul>
+			Moderated by Saleem
+		</li>		
+		<li> fourth session (22nd November):	
+			<ul>
+				<li>Diamond and Dybvig: <a href="http://minneapolisfed.org/research/QR/QR2412.pdf">Bank Runs, Deposit Insurance, and Liquidity</a>, Journal of Political Economy (June 1983, vol.91, no. 3, pp. 401–19) </li>
+			</ul>
+			Presenter: Philipp
+		</li>
+		<li>29th November:	
+			<ul>
+				<li>	 Markus Brunnermeier and Yuliy Sannikov: <a href=http://www.princeton.edu/~markus/research/papers/macro_finance.pdf>A Macroeconomic Model with a Financial Sector</a>, 2011</li>
+			</ul>
+			Presenter: Ansgar
+		</li>
+		<li> 6th December:
+			<ul>
+				<li>Lorenzoni: <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-937X.2008.00494.x/pdf">Inefficient Credit Booms</a>,  Review of Economic Studies, 2008</li>
+			</ul>
+			Presenter: Filip
+		</li>
+	</ol>
+
+	Vote results (16/10/2011):
+
+
+<p>
+
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//docs.google.com/spreadsheet/tq?key=0AjHGpakDR6JtdDhmcFhyN1k1NXUxUldqeDBZQ0FWM3c&transpose=0&headers=0&range=B2%3AB10&gid=0&pub=1","options":{"title":"","height":371,"backgroundColor":"#FFFFFF","colors":["#3366CC","#DC3912","#FF9900","#109618","#990099","#0099C6","#DD4477","#66AA00","#B82E2E","#316395","#994499","#22AA99","#AAAA11","#6633CC","#E67300","#8B0707","#651067","#329262","#5574A6","#3B3EAC","#B77322","#16D620","#B91383","#F4359E","#9C5935","#A9C413","#2A778D","#668D1C","#BEA413","#0C5922","#743411"],"legend":"right","width":600,"is3D":false,"hAxis":{"maxAlternations":1},"hasLabelsColumn":true},"state":{},"chartType":"PieChart","chartName":"Chart 1"} </script>
+</p>
+
+	</li>
+</ul>
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7275213-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+
+</html>

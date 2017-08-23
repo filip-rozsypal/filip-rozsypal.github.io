@@ -1,0 +1,154 @@
+
+background {color: #fff;}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 76%;     /* rumoured that sizes < 76%            */
+	color: #333;        /*     cause problems ins some browsers */
+    line-height: 1.48em;    /* 1.125 * 100 = 1.48 * 76% */
+}
+
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.25em;
+	margin-bottom: 0.5em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 1.97em;     /* 1.5 * 100% == 1.97 * 76% */       
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 1.64em;    /* 1.25 * 100% == 1.64 *76% */
+	font-weight: normal;
+}
+
+h3 {
+	font-size: 1.31em;    /* 1 * 100% == 1.31 * 76% */
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 1em;      /* 0.75 * 100% == 0.98 * 76%, call it 1 */
+	font-weight: bold;
+}
+
+td ul, td ol, td h3, td h4 {
+	font-size: 100%;
+}
+td p, td li {
+	font-size: 100%em;
+}
+
+td h3 {
+	font-size: 1.2em; font-weight: bold;
+}
+
+.footer {margin: 0.5em 0 0 0; border-top: 2px solid #ccc;padding: 0.5em 0 0 0;}
+
+.footer img {float:right; }
+
+/* =LINKS
+-------------------------------------------------------------- */
+
+a[href]:active {text-decoration: none; }
+	
+a[id]:hover {text-decoration:none;}
+
+a img {border:none;}
+
+
+/* =LISTS
+-------------------------------------------------------------- */
+
+ul {
+	list-style-type: disc;
+}
+
+ul ul, ol ol  {
+	font-size: 0.9em;
+	margin-top: 0.5em;
+	margin-left: 1.25em;
+}
+
+ul ul ul, ol ol ol, ul li p, ol li p, ul li ul, ul li ol, ol li ul, ol li ol {
+	font-size: 100%;
+}
+
+ol {
+	list-style-type: decimal;
+	margin-left: 2.4em;
+}
+
+dl {	margin-left: 2em;}
+
+dl dl { font-size: 0.75em; }
+
+dt {	font-weight: bold;}
+
+dd {	margin: 0 0 0.5em 0 ;}
+
+/* =OTHER TEXT ELEMENTS
+-------------------------------------------------------------- */
+
+sup {
+	font-size: 0.85em;
+	position: relative;
+	bottom: 0.5em;
+}
+
+sub {
+	font-size: 0.85em;
+	position: relative;
+	top: 0.5em;
+}
+
+blockquote { 
+	background: #fff;
+	padding: 0.5em 1em 0 1em;
+	font-size: 1em;
+	position: relative;
+}
+
+/*
+blockquote span {
+	color: #d8d0b9;
+	font-size: 8em;
+	position: absolute;
+	display: block;
+	height: 10px;
+	width: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+*/
+
+blockquote p {
+	margin-left: 2.5em;
+	margin-right: 2em;
+}
+
+strong {	font-weight: bold;}
+
+em {	font-style: italic;}
+
+pre {
+	background: #fff;
+	padding: 0.5em 1em 0 1em;
+	font-family: Monaco, monospace;
+	overflow: auto;
+}
+
+tt, code {
+	font-family: 'Andale Mono', 'courier new', monospace;
+	font-size: 1em;
+	line-height: 1.125em;
+}
+
+
+
+/*standard table */
+
+table th, table td {padding: 0.3em 0.4em 0.2em 0.4em;}
+
+table th {font-weight:bold;}

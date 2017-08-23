@@ -1,0 +1,19 @@
+<html>
+<body>
+<div style="width:750px" id="page-container">
+	Welcome!<br/><br/>
+
+ <br/>
+ 
+I am a macroeconomist, with a general interest in macroeconomic dynamics. In particular, I am interested in the role of expectations and heterogeneity for business cycle fluctuations. I am also interested in solution methods for economic models.
+ <br/>
+I am on the academic job market this year. I will be available for interviews at ASSA meeting in Chicago, RES meeting in London and SAEe in Bilbao.
+ 
+</div>
+</body>
+<script type="text/javascript">
+parent.AdjustIframeHeight(document.getElementById("page-container").scrollHeight);
+</script>
+
+
+</html>

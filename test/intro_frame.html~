@@ -1,0 +1,16 @@
+<html>
+<body>
+<div style="width:750px" id="page-container">
+Welcome!
+
+I am on the Job Market and I will be available for interviews at the AEA conference in Boston and the RES meeting in London.  <br/><br/>
+
+I am a macroeconomist, with a general interest in macroeconomic dynamics. In particular, I am interested in business cycle fluctuations from the perspective of how disaggregated factors can lead to the emergence of aggregate phenomena.
+</div>
+</body>
+<script type="text/javascript">
+parent.AdjustIframeHeight(document.getElementById("page-container").scrollHeight);
+</script>
+
+
+</html>
