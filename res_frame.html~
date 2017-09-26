@@ -9,9 +9,8 @@ I am interested in macroeconomics, in particular in business cycles, in the role
     <li>
       <i>
 	<strong>
-	  <a href="pdfs\paper_incomeExpectations.pdf" target="_blank">Overpersistence bias in individual income expectations and its aggregate implications</a>
-	</strong> </br>
-	<a href="http://cepr.org/active/publications/discussion_papers/dp.php?dpno=12028">(CEPR CP12028)</a>
+	  <a href="rozsypal_jmp.pdf" target="_blank">Overpersistence bias in individual income expectations and its aggregate implications</a>
+	</strong>
       </i> 
       (with <a href="https://sites.google.com/site/kathrinschlafmann/" target="_blank">Kathrin Schlafmann</a>) <br />
 We study the role of household income expectations for consumption decisions. Using micro level data, we first document an income-related systematic component in household income forecast errors. We argue that this behavior is consistent with a modest deviation from fully rational expectations, where agents overestimate the persistence of their income process. We then study the implications of this overpersistence bias in a quantitative model. Low income households who overestimate the persistence of their income are too pessimistic about their future income. This has two effects. First, they are unwilling to borrow to smooth their consumption even though their borrowing constraint is not binding. This allows the quantitative model to match the distribution of liquid assets across the income distribution. Second, low income households who overestimate the persistence of their income have lower marginal propensities to consume than their fully rational counterparts. This implies that standard models of household consumption overpredict the effectiveness of government stimulus payments if they do not take deviations from fully rational income expectations into account.
@@ -20,7 +19,7 @@ We study the role of household income expectations for consumption decisions. Us
     <li>
       <i>
 	<strong>
-	  <a href="pdfs\SChRBC.pdf" target="_blank">Schumpeterian business cycles</a>
+	  <a href="SChRBC.pdf" target="_blank">Schumpeterian business cycles</a>
 	</strong>
       </i>
       <br />
@@ -29,7 +28,7 @@ We study the role of household income expectations for consumption decisions. Us
     </li>
     <li>
       <i>
-	<a href="pdfs\numerical_methodology.pdf" target="_blank">Solving high-dimensional models with truncated shocks</a>
+	<a href="numerical_methodology.pdf" target="_blank">Solving high-dimensional models with truncated shocks</a>
       </i>
       (complimentary paper to my jmp) <br />
       This note describes how a projection algorithm can be extended to solve dynamic stochastic
@@ -38,7 +37,7 @@ equilibrium models of high dimensionality which feature several types of agents 
     </li>    
       <li>
         <i>
-	  <a href="pdfs\ReputationAndAsymmetry2013.pdf" onClick="javascript: _gaq.push(['_trackPageview', 'paper Asymmetry and Reputation']);" target="_blank">The Optimal Monetary Policy Rule: the Role of Asymmetries and Reputation</a>
+	  <a href="ReputationAndAsymmetry2013.pdf" onClick="javascript: _gaq.push(['_trackPageview', 'paper Asymmetry and Reputation']);" target="_blank">The Optimal Monetary Policy Rule: the Role of Asymmetries and Reputation</a>
 	</i> <br />
 
 I study the optimal policy rule of a central bank under an asymmetric information and reputation building setting. I find that the optimal reaction function is nonlinear, despite a standard quadratic loss function and linear Phillips curve. The asymmetry arises from the signal extraction problem of the agents. Given this setting, I analyze the propositions of Rogoff and Blinder how to solve inflationary bias. I find that in the both cases the optimal policy function is nonlinear. Furthermore, the Blinder setting delivers higher value of social welfare.<br/><br/>
@@ -51,11 +50,11 @@ I study the optimal policy rule of a central bank under an asymmetric informatio
       <li>
 	 <i>Sectoral shocks and aggregate dynamics of unemployment and vacancies</i><br/><br/>
       </li>
-<!---
+<!--- --->
       <li>
-        <i>Using symbolic math toolbox to speed up projection based algorithms</i><br/><br/>
+        <i>Computer Adoption and the Changing Labor Market (with Miguel Morin)</i><br/><br/>
       </li>      
---->
+
 
     </ul>
   </li>
